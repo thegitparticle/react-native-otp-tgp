@@ -1,7 +1,7 @@
 {
-  "name": "react-native-otp",
+  "name": "react-native-otp-tgp",
   "version": "1.0.0",
-  "description": "OTP Input component for React Native",
+  "description": "OTP Input component for React Native - with UI changes by TGP",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thuansb/react-native-otp.git"
+    "url": "git+https://github.com/thegitparticle/react-native-otp-tgp.git"
   },
   "keywords": [
     "react-native",
@@ -22,10 +22,8 @@
   ],
   "author": "thuansb",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/thuansb/react-native-otp/issues"
-  },
-  "homepage": "https://github.com/thuansb/react-native-otp#readme",
+  
+  "homepage": "https://github.com/thegitparticle/react-native-otp-tgp#readme",
   "dependencies": {
     "prop-types": "^15.6.2"
   }
