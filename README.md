@@ -1,10 +1,6 @@
-# react-native-otp
+# react-native-otp-tgp
 
-[![npm version](https://badge.fury.io/js/react-native-otp.svg)](https://badge.fury.io/js/react-native-otp)
-[![npm](https://img.shields.io/npm/dm/react-native-otp.svg?maxAge=2592000)]()
-[![npm](https://img.shields.io/npm/dt/react-native-otp.svg?maxAge=2592000)]()   
-
-OTP Input component for React Native
+OTP Input component for React Native by TGP
 
 ## Features
 
@@ -13,19 +9,15 @@ OTP Input component for React Native
 - Easy to customize style
 - No additional dependencies
 
-## Preview
-
-![](https://thumbs.gfycat.com/AccurateGentleAustraliankestrel-size_restricted.gif)
-
 ## Install
 
 NPM
 
-```npm install react-native-otp```
+```npm install react-native-otp-tgp```
 
 Yarn
 
-```yarn add react-native-otp```
+```yarn add react-native-otp-tgp```
 
 ## Usage
 
